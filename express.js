@@ -1,7 +1,6 @@
 const express = require("express");              //i have requireexpress to use it //
 const fs = require("fs");                   //i am going to work on file system so i require fs as well //
 const { networkInterfaces } = require("os");
-// const bodyparser=require("body-parser");        // i am going to take perticulary data so for that i am using body parser //
 var app = express()                 //i have store express in one variable so no need to require again and again //
 const details = require('./data.json');
 
