@@ -1,0 +1,41 @@
+{
+    "Students_data":[
+       {
+          "name":"swati waghmare",
+          "age":19,
+          "qualification":"Backend Developer",
+          "birthday" : "28 sep 2000"
+       },
+       {
+          "name":"parveen",
+          "age":20,
+          "qualification":"frontend Developer",
+          "birthday":"8 nov"
+       },
+       {
+          "name":"sarmistha",
+          "age":21,
+          "qualification":"fullstack developer",
+          "birthday":"20 feb"
+
+       },
+       {
+           "name":"sharma",
+           "age":22,
+           "qulification":"doctor",
+           "birthday":"1 jan"
+       },
+       {
+          "name":"kajal kumari",
+          "age":23,
+          "qualification": "software developer",
+          "birthday":"25 feb"
+       },
+       {
+         "name":"riya",
+         "age":32,
+         "qualification": "CA",
+         "birthday":"10 dec"
+       }
+    ]
+ }
