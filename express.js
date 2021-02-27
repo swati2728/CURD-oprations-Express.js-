@@ -79,7 +79,7 @@ fs.readFile("data.json",function(err,data){
 
 
 })
-app.listen(65000,function(req,res){
+app.listen(2000,function(req,res){
     console.log("server is running at the port number 2000")
 });
 
